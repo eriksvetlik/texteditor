@@ -32,7 +32,3 @@ HTML | CSS | JavaScript | Node.js | Webpack
 # Screenshot
 
 ![Screenshot of webpage](./images/homework-readme.png)
-
-# Link
-
-https://texteditor3322.herokuapp.com/
